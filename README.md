@@ -53,18 +53,6 @@ I'm a builder who likes the space between a promising model and a product people
 | **Calculus Copilot** · *in development* | 融合 OCR、AI 反馈、OAuth 和课堂工作流的微积分学习浏览器扩展。<br>A calculus learning extension combining OCR, AI feedback, OAuth, and classroom workflows. |
 | **[Magic 4K](https://github.com/Cai-Huayi/magic_4K)** | 用 Python 解释四张牌数学魔术及其确定性终态。<br>A Python exploration of a mathematical card trick and its deterministic final state. |
 
-## `$ github --stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cai-Huayi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="Huayi Cai's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cai-Huayi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Cai-Huayi&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cai-Huayi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
-
-</div>
 
 ## `$ current_direction`
 
